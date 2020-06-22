@@ -1,0 +1,29 @@
+Gómez Soriano Rodrigo
+Ferrer Trejo Johan Ariel
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Antes del instructivo nos gustaría dar una disculpa por el proyecto presentado, ya wue no es de la calidad que nos gustaria, pero tuvimos inconvenientes con el equipo y terminamos solo con 2 integrantes y muy poco tiempo para terminar el proyecto.
+Por su atención gracias.
+////////////////////////////////////////////////////////////////////////////////////////////
+
+Instructivo:
+
+en el menu se puede escojer entrre cuatro opciones, tales como insertar, eliminar libro buscar y mostrar
+
+si se presiona cualquier numero se repetira el menu, si  se quierer terminar el programa presionar 5.
+
+-   Insertar: Se presiona la tecla 1, rellenar con el titulo del libro, seguido del autor, despues la editorial, con que pasta esta hecha, con el ISBN el precio y cuantos se encuentran en existencia. Despues se dara el libro como registrado para que despues se regrese al menu.
+
+Titulo: pepe
+Autor: papa
+Editorial: pipi 
+Formato: blando
+ISBN: 12345
+Precio:50
+Existencia: 2
+
+-   Mostrar: se presiona el numero 2, nos muestra todos los libros que se han ingresado, con todas las caracteristicas de insertar.
+
+-   Buscar libro: Se teclea el numero 4, se nos pedira el ISBN al escribirlo nos mostrara los datos del libro sin su existencia.
+
+-   Eliminar libro: Se eliminan todos los libros en existencia cuando se ingresa el ISBN, para cuando se da a mostrar de nuevo solo apraceran los datos del libro, sin existencia
